@@ -21,7 +21,7 @@ public class AffichageJeu implements Runnable {
 		JFrame fenetre = new JFrame();
 
 		fenetre.setTitle("Puissance 4");
-		fenetre.setSize(500, 500);
+		fenetre.setSize(800, 600);
 		fenetre.setResizable(false);
 
 		JSplitPane puissance4 = new JSplitPane(JSplitPane.VERTICAL_SPLIT);
